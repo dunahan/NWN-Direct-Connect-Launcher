@@ -1,0 +1,4 @@
+[Main]
+Version=1.14
+[UpdateInstaller]
+https://neverwintervault.org/sites/neverwintervault.org/files/project/27639/files/NWN%Direct%Connect%Launcher%v1.14.zip

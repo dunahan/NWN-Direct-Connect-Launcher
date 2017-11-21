@@ -1,0 +1,3 @@
+[Main]
+Version=1.15
+UpdateInstaller=https://neverwintervault.org/project/nwn1/other/tool/nwn-1-direct-connect-launcher/nwn_direct_connect_launcher_v1.15.zip
